@@ -6,8 +6,14 @@
 
 ### Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,python,nodejs)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=aws,mysql,docker,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,python,nodejs,github)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=aws,mysql,docker,css,html)](https://skillicons.dev)
+
+
+###  Meios de contato 💻
+<div align="left">
+<a href="https://www.linkedin.com/in/edu-sousa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:g_presilli@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### Status
 
@@ -15,7 +21,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=GustavoPresilli&hide_border=true&theme=transparent)](https://git.io/streak-stats)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoPresilli&theme=transparent&show_icons=true&hide_border=true&card_width=250)
-
-### Redes
-
-<p align="left"><a href="https://www.linkedin.com/in/gustavo-silva-presilli-248361300/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@felipesco" target="_blank" rel="noreferrer"></a></p>
